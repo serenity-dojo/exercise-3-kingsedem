@@ -16,7 +16,7 @@ public class Dog {
         this.favoriteToy = favoriteToy;
         this.age = age;
         this.makeNoise = makeNoise;
-        this.isFed = true;
+        this.isFed= isFed;
     }
 
 
